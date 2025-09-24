@@ -3,9 +3,8 @@
 👋 Hi, I’m **Umut Erdoğan**, a Quality Assurance Automation Engineer with hands-on experience in **UI, API, and Database testing**.  
 I worked at **OpenlyCRM** as a Junior QA Automation Engineer, where I designed and implemented automated testing solutions to improve product quality and accelerate release cycles.  
 I am skilled in **Java, Selenium WebDriver, JUnit, TestNG, Cucumber BDD, Rest Assured, and SQL**, with a strong foundation built through CYDEO’s intensive SDET training program.  
-Before transitioning into automation engineering, I gained professional experience in **business insight and data analysis at Sanofi** and in **digital marketing as a freelancer**, which sharpened my analytical and problem-solving skills.  
-I combine strong technical expertise with a detail-oriented, strategic approach to testing, ensuring product quality and accelerating release cycles.  
-In addition, I am currently pursuing my **Master’s degree in Paris**, which allows me to take on full-time internships with a convention de stage.  
+Before transitioning into automation engineering, I gained professional experience in **business insight and data analysis at Sanofi** and in **digital marketing as a freelancer**, which sharpened my analytical and problem-solving skills. I combine strong technical expertise with a detail-oriented, strategic approach to testing, ensuring product quality and accelerating release cycles.
+In addition, I am currently pursuing my **Master’s degree in Paris**, which allows me to take on full-time internships with a convention de stage in France.  
 
 ---
 
