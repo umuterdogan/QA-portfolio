@@ -7,11 +7,14 @@ Before transitioning into automation engineering, I gained professional experien
 I combine strong technical expertise with a detail-oriented, strategic approach to testing, ensuring product quality and accelerating release cycles.  
 In addition, I am currently pursuing my **Master’s degree in Paris**, which allows me to take on full-time internships with a convention de stage.  
 
+---
+
 This portfolio has been created to showcase my ability to design and implement automation frameworks across different testing layers.  
 By separating UI, API, and Database projects, I aimed to demonstrate a full-stack approach to software quality assurance—covering front-end behavior, backend validation, and service-level testing.  
 Each project reflects real-world practices with CI/CD integration, BDD workflows, and detailed reporting, highlighting not only technical skills but also structured thinking in test design.
 
 ---
+
 
 ## 🔹 UI Automation – TryCloud  
 - **Tech stack**: Java, Selenium WebDriver, JUnit, Cucumber, Maven, Jenkins  
