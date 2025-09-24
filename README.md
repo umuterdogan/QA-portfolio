@@ -1,11 +1,15 @@
 # QA Automation Portfolio – Umut Erdoğan  
 
 👋 Hi, I’m **Umut Erdoğan**, a Quality Assurance Automation Engineer with hands-on experience in **UI, API, and Database testing**.  
-Until August 2025, I worked as a **Junior QA Automation Engineer at OpenlyCRM**, where I built end-to-end automation frameworks with Java, Selenium, Rest Assured, and JDBC.  
-My technical foundation comes from **CYDEO’s intensive SDET program**, complemented by professional internships in data analysis (Sanofi) and digital strategy (Collectif IDEM, GE Coaching).  
-
+I worked at **OpenlyCRM** as a Junior QA Automation Engineer, where I designed and implemented automated testing solutions to improve product quality and accelerate release cycles.  
+I am skilled in **Java, Selenium WebDriver, JUnit, TestNG, Cucumber BDD, Rest Assured, and SQL**, with a strong foundation built through CYDEO’s intensive SDET training program.  
+Before transitioning into automation engineering, I gained professional experience in **business insight and data analysis at Sanofi** and in **digital marketing as a freelancer**, which sharpened my analytical and problem-solving skills.  
 I combine strong technical expertise with a detail-oriented, strategic approach to testing, ensuring product quality and accelerating release cycles.  
-Currently, I am pursuing my **Master’s degree in Paris**, which allows me to take on full-time internships with a convention de stage.  
+In addition, I am currently pursuing my **Master’s degree in Paris**, which allows me to take on full-time internships with a convention de stage.  
+
+This portfolio has been created to showcase my ability to design and implement automation frameworks across different testing layers.  
+By separating UI, API, and Database projects, I aimed to demonstrate a full-stack approach to software quality assurance—covering front-end behavior, backend validation, and service-level testing.  
+Each project reflects real-world practices with CI/CD integration, BDD workflows, and detailed reporting, highlighting not only technical skills but also structured thinking in test design.
 
 ---
 
